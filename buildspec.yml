@@ -10,4 +10,4 @@ phase:
       -  echo Build completed successfully
 artifacts:
   files:
-   - order-service.jar
+   - '**/*'
